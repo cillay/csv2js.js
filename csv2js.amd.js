@@ -17,7 +17,7 @@ define(
              * Convert text in CSV format to an array of JavaScript arrays.
              *
              * @param {string} csvText The complete CSV-formatted text as a string.
-             * @param {options} options The options to define the delimiter and/or firstRowHasHeaders settings.
+             * @param {object} options The options to define the delimiter and/or firstRowHasHeaders settings.
              * @return {array} The array of corresponding JavaScript arrays.
              */
             toArray: function(csvText, delimiter) {
@@ -47,7 +47,7 @@ define(
              * Convert text in CSV format to an array of JavaScript objects.
              *
              * @param {string} csvText The complete CSV-formatted text as a string.
-             * @param {options} options The options to define the delimiter and/or firstRowHasHeaders settings.
+             * @param {object} options The options to define the delimiter and/or firstRowHasHeaders settings.
              * @return {array} The array of corresponding JavaScript objects.
              */
             toCollection: function(csvText, options) {
