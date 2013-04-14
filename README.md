@@ -20,7 +20,7 @@ Convert text in CSV format to an array of JavaScript objects.
 <tr><td class="name"><code>options</code></td><td class="type"><span class="param-type">object</span></td><td class="description last">The options to define the delimiter and/or firstRowHasHeaders settings.</td></tr></tbody></table>  
 
 Source:
-:   -   csv2js.js, line 35
+:   -   csv2js.js, line 42
 
 ##### Returns:
 
@@ -43,7 +43,7 @@ Convert text in CSV format to an array of JavaScript arrays of string.
 <tr><td class="name"><code>options</code></td><td class="type"><span class="param-type">object</span></td><td class="description last">The options to define the delimiter and/or firstRowHasHeaders settings.</td></tr></tbody></table>  
 
 Source:
-:   -   csv2js.js, line 22
+:   -   csv2js.js, line 29
 
 ##### Returns:
 
@@ -64,7 +64,7 @@ Convert text in CSV format to an array of JavaScript objects.
 <tr><td class="name"><code>options</code></td><td class="type"><span class="param-type">object</span></td><td class="description last">The options to define the delimiter and/or firstRowHasHeaders settings.</td></tr></tbody></table>  
 
 Source:
-:   -   csv2js.js, line 78
+:   -   csv2js.js, line 85
 
 ##### Returns:
 
@@ -85,7 +85,7 @@ Convert text in CSV format to an array of JavaScript arrays of string.
 <tr><td class="name"><code>options</code></td><td class="type"><span class="param-type">object</span></td><td class="description last">The options to define the delimiter and/or firstRowHasHeaders settings.</td></tr></tbody></table>  
 
 Source:
-:   -   csv2js.js, line 48
+:   -   csv2js.js, line 55
 
 ##### Returns:
 

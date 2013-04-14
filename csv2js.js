@@ -1,4 +1,11 @@
-/** @module csv2js */
+/*!
+ * csv2js: CSV to JavaScript converter (AMD version) - v0.1 - 2013-03-01
+ * http://ian.cillay.com/projects/csv2js/
+ * 
+ * Copyright (c) 2013 Ian Cillay
+ * Dual licensed under the MIT and GPL licenses.
+ */
+ /** @module csv2js */
 var csv2js = (function () {
     var _delimiter = ",",
         _load = function (url, callback) {

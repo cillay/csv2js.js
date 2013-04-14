@@ -4,7 +4,8 @@
  * 
  * Copyright (c) 2013 Ian Cillay
  * Dual licensed under the MIT and GPL licenses.
- *//** @module csv2js */
+ */
+ /** @module csv2js */
 define(
     'csv2js',
     [],
